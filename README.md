@@ -1,3 +1,7 @@
+<img width="1706" height="1279" alt="86a04491187a1cce568d0ce1c19f64d7" src="https://github.com/user-attachments/assets/c75fc61e-a5ec-4997-af6f-07b660131c8a" />
+
+<img width="1706" height="1279" alt="0c5eb42da822242b4dad09033252d7c5" src="https://github.com/user-attachments/assets/8c2d88c8-0356-4426-b954-e1dcdf6c291e" />
+
 ## 🛠️ 物料清单 (Bill of Materials)
 
 ### ⚙️ 机械与动力组件
@@ -14,3 +18,5 @@
 | **螺丝** | M3 (长度需根据装配补充) | 若干 | 建议准备 M3 螺丝包 (6mm-20mm) |
 | **螺丝** | M2 (长度需根据装配补充) | 若干 | 用于固定电子件或小结构 |
 | **打印件** | 自制 | 1套 | 详见 `/STL_Files` 文件夹 |
+
+
